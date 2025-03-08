@@ -1,0 +1,44 @@
+Not all treasure is silver and gold, mate.
+
+Captain Goat Sparrow is your name, people know you, and they fear you! You travel the world with your cursed compass to find the thing you desire most... Selling it could make you rich, but first you need to find it. Also there is this stupid Parrot that keep following you, you have no idea why but it can sometimes be useful to distract your enemies ;D
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Pirate Goat: You have a cursed compass and a Parrot pet.
+
+[b]COMMANDS[/b]
+- [b][RightClick] + [1]:[/b] The closest item is now your most desired item.
+- [b][E] + [1]:[/b] Make your Parrot create a diversion.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][LT] + [LB]:[/b] The closest item is now your most desired item.
+- [b][X] + [LB]:[/b] Make your Parrot create a diversion.
+
+[b]CHARACTERISTICS[/b]
+- People fear you if you run in their direction.
+- The Cursed Compass point in the direction of the closest item with the same name as your most desired item.
+- When there is no more items with that name on the map, the Cursed Compass indicate random directions.
+- If you lick the item you desire most, it will be converted into Gold Coins.
+- Your Parrot fly after you everywhere, it's invulnerable (can't ragdoll) and passive (can't attack).
+- During a diversion, your Parrot will run away from you and every creature close enough will try to attack it.
+- If your Parrot is too far away from you it will stop any action and fly back to you.
+- When your Parrot hit an obstacle, it will try to pass on top of it.
+
+[b]EASTER EGGS[/b]
+- [spoiler]The Cursed Compass can be really helpful to find food on the GoatZ map.[/spoiler]
+- [spoiler]What if the item you desire most was a goat trophie... :p[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- The Parrot don't have a flight animation so it's not animated correctly.
+- When moving, the Parrot can have weird orientations.
+- Sometimes the Parrot can get stuck (inside buildings for example), just walk far away from it to fix it.
+- The Cursed Compass collide with some objects (it should pass through everything).
+
+[b]DEV NOTES[/b]
+[quote=About this mod]And here is my first mod after the GoatZ update :p It tooks a long time, mainly because it was hard for me to find time to work on it recently. Anyway here we go, the central idea was proposed on my mod request thread, but I completed it with some personal ideas I had (for the compass).
+The central feature of this mod is the Cursed Compass, what I wanted when I thought about it was basically a GPS to find food easily on the GoatZ map XD So that's what I did: you can select an item around you without even having to touch it and then the Compass will point in the direction of that item as well as any other item with the same name ^^ I like the way I combined items to make the object itself, anyway that was really hard to use alone as the needle was either hidden by light reflections, or too small to be seen correctly... So I decided to add a big green arrow under the compass to make the direction obvious without having to zoom on it ;)
+Being able to turn objects into gold was one of the features suggested in the request thread, so I decided to combine that with the compass to let the player transform the target of the compass into gold (this also help to find the location of the other items with the same name).
+Making the fear ability was not really hard, I made one already for the Slender Goat mutator. The variation of this one is that it will only affect people in front of you and not everyone around, so there is some geometric math in there but once again nothing really complicated.
+Finally the Parrot pet was the most challenging part for me in this mod :) First because I had to create a little AI for a flying creature, and also because I had no idea if I would be able to make it work as I expected when I started working on it XD Anyway most of the behaviours I waanted are there: the parrot fly at a fix distance of the ground, follow the player, can run away and distract nearby creatures and try to avoid obstacles. The only bad poit is the animation :/ As there was no flight animation I could only use the default idle and walk animations so the result is a bit weird... Oh and the "diversion" code is almost copy pasted from the Princess Goat charm ability ;)
+[/quote]
